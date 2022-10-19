@@ -18,13 +18,13 @@
 - [Knight's Tour](https://github.com/bar-benjamin/Knight-Tour)
 - [Simple Shell](https://github.com/bar-benjamin/Simple-Shell)
 
-## Contact me
+### Contact me
 
 <div>
  <a href="mailto:bar.benjamin123@gmail.com" target="_blank"><img src ="./images/gmail.svg" alt="daniel.brodsky@att.com" width="8%" title='bar.benjamin123@gmail.com'/></a>
 </div>
 
-## Technologies
+### Technologies
 <div>
   <a href="https://www.oracle.com/java/" target="_blank"><img src ="./images/java.svg" alt="Java logo" width="8%" title='Java'/></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src ="./images/c.png" alt="C logo" width="8%" title='C'/></a>
@@ -32,7 +32,7 @@
 </div>
                                                                   
                                                                  
-## Tools
+### Tools
 <div>
   <a href="https://code.visualstudio.com/" target="_blank"><img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="8%" title='Visual Studio Code'/></a>
   <a href="https://www.jetbrains.com/idea/" target="_blank"><img src ="./images/IntelliJ.svg" alt="IntelliJ logo" width="8%" title='IntelliJ'/></a>
