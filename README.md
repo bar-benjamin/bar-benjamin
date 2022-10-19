@@ -12,6 +12,12 @@
 
 - 👯 I’m looking to make connections with other developers and expand my knowledge and skills
 
+# Projects
+
+- [Watchdog](https://github.com/bar-benjamin/Watchdog)
+- [Knight Tour](https://github.com/bar-benjamin/Knight-Tour)
+- [Simple Shell](https://github.com/bar-benjamin/Simple-Shell)
+
 # Contact me
 
 <div>
