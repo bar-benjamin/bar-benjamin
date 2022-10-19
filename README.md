@@ -3,7 +3,7 @@
 If you don't like your destiny, don't accept it. Instead have the courage to change it the way you want it to be</h3>
 
 <p align="center">
-  <a href="#"><img src="./images/intro.png" style="border-radius: 5px;" width="500px" title="cover"></a>
+  <a href="#"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500px" title="cover"></a>
 </p>
 
 - 🌐 I love creating and being able to turn an idea into reality!
