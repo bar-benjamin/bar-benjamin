@@ -13,9 +13,8 @@
 - 👯 I’m looking to make connections with other developers and expand my knowledge and skills
 
 ## Projects
-<h4> Watchdog - Monitoring Program </h4>
-Multithreaded program that runs in the background which monitors User App program to see if it frozed or crashed and restart it if needed<br />
-- [see project](https://github.com/bar-benjamin/Watchdog)
+<h4> [Watchdog - Monitoring Program](https://github.com/bar-benjamin/Watchdog) </h4>
+- Multithreaded program that runs in the background which monitors User App program to see if it frozed or crashed and restart it if needed<br />
 
 - [Knight's Tour](https://github.com/bar-benjamin/Knight-Tour)
 - [Simple Shell](https://github.com/bar-benjamin/Simple-Shell)
