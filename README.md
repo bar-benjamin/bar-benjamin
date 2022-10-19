@@ -14,7 +14,7 @@
 
 ## Projects
 - [Watchdog](https://github.com/bar-benjamin/Watchdog)
-<br />Multithreaded monitoring program that runs in the background which monitors another program to see if it froze or crashed and restart it if needed
+<br />Multithreaded monitoring program that runs in the background which monitors another program<br />to see if it froze or crashed and restart it if needed
 
 - [Knight's Tour](https://github.com/bar-benjamin/Knight-Tour)
 - [Simple Shell](https://github.com/bar-benjamin/Simple-Shell)
