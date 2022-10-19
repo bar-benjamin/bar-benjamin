@@ -8,7 +8,7 @@
 
 - 🌐 I love creating and being able to turn an idea into reality!
 
-- 🌱 I’m currently learning **C, Java**
+- 🌱 I’m currently learning **C, Java and Python**
 
 - 👯 I’m looking to make connections with other developers and expand my knowledge and skills
 
