@@ -12,13 +12,13 @@
 
 - 👯 I’m looking to make connections with other developers and expand my knowledge and skills
 
-# Projects
+## Projects
 
-- [Watchdog](https://github.com/bar-benjamin/Watchdog)
-- [Knight Tour](https://github.com/bar-benjamin/Knight-Tour)
+- [Watchdog - Monitoring Program](https://github.com/bar-benjamin/Watchdog)
+- [Knight's Tour](https://github.com/bar-benjamin/Knight-Tour)
 - [Simple Shell](https://github.com/bar-benjamin/Simple-Shell)
 
-# Contact me
+## Contact me
 
 <div>
  <a href="mailto:bar.benjamin123@gmail.com" target="_blank"><img src ="./images/gmail.svg" alt="daniel.brodsky@att.com" width="8%" title='bar.benjamin123@gmail.com'/></a>
