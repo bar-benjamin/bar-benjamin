@@ -13,7 +13,7 @@
 - 👯 I’m looking to make connections with other developers and expand my knowledge and skills
 
 ## Projects
-- [Watchdog](https://github.com/bar-benjamin/Watchdog) - multithreaded program that runs in the background which monitors another program to see if it froze or crashed and restart it if needed.
+- [Watchdog](https://github.com/bar-benjamin/Watchdog) - multithreaded program that runs in the background which monitors another program to see if it crashed and restart it if needed.
 - [Knight's Tour](https://github.com/bar-benjamin/Knight-Tour) - chess problem consisting both backtracking and heuristic algorithms.
 - [Simple Shell](https://github.com/bar-benjamin/Simple-Shell) - program that mimics the behaviour of a simple unix-like shell
 
