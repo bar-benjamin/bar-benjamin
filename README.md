@@ -13,7 +13,7 @@
 - 👯 I’m looking to make connections with other developers and expand my knowledge and skills
 
 ## Projects
-- [Watchdog](https://github.com/bar-benjamin/Watchdog) - multithreaded monitoring program that runs in the background which monitors<br /> another program to see if it froze or crashed and restart it if needed
+- [Watchdog](https://github.com/bar-benjamin/Watchdog) - multithreaded monitoring program that runs in the background which monitors another program to see if it froze or crashed and restart it if needed
 
 - [Knight's Tour](https://github.com/bar-benjamin/Knight-Tour)
 - [Simple Shell](https://github.com/bar-benjamin/Simple-Shell)
