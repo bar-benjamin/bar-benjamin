@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bar Benjamin</h1>
+<h1 align="center">Bar Benjamin</h1>
 <h4 align="center";">A passionate and ambiguous software developer</br><br />
 "If you don't like your destiny, don't accept it. Instead have the courage to change it the way you want it to be"</h3>
 
