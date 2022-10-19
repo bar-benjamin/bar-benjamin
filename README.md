@@ -22,6 +22,7 @@
 <div>
   <a href="https://www.oracle.com/java/" target="_blank"><img src ="./images/java.svg" alt="Java logo" width="8%" title='Java'/></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src ="./images/c.png" alt="C logo" width="8%" title='C'/></a>
+  <a href="https://www.python.org/" target="_blank"><img src ="./images/python.svg" alt="Python logo" width="8%" title='Python'/></a>
 </div>
                                                                   
                                                                  
