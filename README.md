@@ -14,7 +14,7 @@
 
 ## Projects
 <h4> Watchdog - Monitoring Program </h4>
-Multithreaded program that runs in the background which monitors User App program to see if it frozed or crashed and restart it if needed.
+Multithreaded program that runs in the background which monitors User App program to see if it frozed or crashed and restart it if needed<br />
 - [see project](https://github.com/bar-benjamin/Watchdog)
 
 - [Knight's Tour](https://github.com/bar-benjamin/Knight-Tour)
