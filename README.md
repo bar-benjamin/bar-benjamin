@@ -1,6 +1,6 @@
 <h2 align="center">Bar Benjamin</h1>
-<h5 align="center";">A passionate and ambitious software developer</br><br />
-"If you don't like your destiny, don't accept it. Instead have the courage to change it the way you want it to be"</h3>
+<h4 align="center";">A passionate and ambitious software developer</br><br />
+"If you don't like your destiny, don't accept it. Instead have the courage to change it the way you want it to be"</h4>
 
 <p align="center">
   <a href="#"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500px" title="cover"></a>
