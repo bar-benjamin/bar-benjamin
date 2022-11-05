@@ -16,8 +16,8 @@
 - [Watchdog](https://github.com/bar-benjamin/Watchdog) - multithreaded program that runs in the background which monitors another program to see if it crashed and restart it if needed
 - [Knight's Tour](https://github.com/bar-benjamin/Knight-Tour) - chess problem consisting both backtracking and heuristic algorithms with a graphical output
 - [Simple Shell](https://github.com/bar-benjamin/Simple-Shell) - program that mimics the behaviour of a simple unix-like shell
-- [Video Game Sales](https://github.com/bar-benjamin/Video-Game-Sales) - data analysis with python using pandas, numpy and scikit libraries
-- [Graph Calculator](https://github.com/bar-benjamin/Graph-Calculator) - calculator for directed graph using C++, Python and Swig
+- [Video Game Sales](https://github.com/bar-benjamin/Video-Game-Sales) - data analysis with Python using pandas, numpy and scikit libraries
+- [Graph Calculator](https://github.com/bar-benjamin/Graph-Calculator) - calculator for directed graph using C++, Python and swig
 
 ### Contact me
 
