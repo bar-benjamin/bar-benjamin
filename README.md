@@ -41,5 +41,5 @@
   <a href="https://www.linux.org/" target="_blank"><img src ="./images/linux.svg" alt="Linux logo" width="8%" title='Linux'/></a>
 </div>
 
-<br />
+<br><br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
