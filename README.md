@@ -40,5 +40,6 @@
   <a href="https://git-scm.com/" target="_blank"><img src ="./images/git.svg" alt="Git logo" width="8%" title='Git'/></a>
   <a href="https://www.linux.org/" target="_blank"><img src ="./images/linux.svg" alt="Linux logo" width="8%" title='Linux'/></a>
 </div>
-                                                                                                            
+
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
