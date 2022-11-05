@@ -17,11 +17,12 @@
 - [Knight's Tour](https://github.com/bar-benjamin/Knight-Tour) - chess problem consisting both backtracking and heuristic algorithms with a graphical output
 - [Simple Shell](https://github.com/bar-benjamin/Simple-Shell) - program that mimics the behaviour of a simple unix-like shell
 - [Video Game Sales](https://github.com/bar-benjamin/Video-Game-Sales) - data analysis with python using pandas, numpy and scikit libraries
+- [Graph Calculator Swig](https://github.com/bar-benjamin/Graph-Calculator-Swig) - calculator for directed graph using C++, Python and Swig
 
 ### Contact me
 
 <div>
- <a href="mailto:bar.benjamin123@gmail.com" target="_blank"><img src ="./images/gmail.svg" alt="daniel.brodsky@att.com" width="8%" title='bar.benjamin123@gmail.com'/></a>
+ <a href="mailto:bar.benjamin123@gmail.com" target="_blank"><img src ="./images/gmail.svg" alt="mailto:bar.benjamin123@gmail.com" width="8%" title='bar.benjamin123@gmail.com'/></a>
 </div>
 
 ### Technologies
@@ -39,3 +40,5 @@
   <a href="https://git-scm.com/" target="_blank"><img src ="./images/git.svg" alt="Git logo" width="8%" title='Git'/></a>
   <a href="https://www.linux.org/" target="_blank"><img src ="./images/linux.svg" alt="Linux logo" width="8%" title='Linux'/></a>
 </div>
+                                                                                                            
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
