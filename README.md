@@ -42,4 +42,4 @@
 </div>
 
 <br><br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bar-benjamin&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bar-benjamin&theme=dracula&layout=compact"/>
