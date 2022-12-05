@@ -18,7 +18,7 @@
 - [Simple Shell](https://github.com/bar-benjamin/Simple-Shell) - program that mimics the behaviour of a simple unix-like shell
 - [Video Game Sales](https://github.com/bar-benjamin/Video-Game-Sales) - data analysis with Python using pandas, numpy and scikit libraries
 - [Graph Calculator](https://github.com/bar-benjamin/Graph-Calculator) - calculator for directed graph using C++, Python and swig
-- [HashMap](https://github.com/bar-benjamin/HashMap) - HashMap implementation in java using Collection framework and iterators
+- [HashMap](https://github.com/bar-benjamin/HashMap) - HashMap implementation in Java using Collection framework and iterators
 
 ### Contact me
 
