@@ -19,6 +19,7 @@
 - [Video Game Sales](https://github.com/bar-benjamin/Video-Game-Sales) - data analysis with Python using pandas, numpy and scikit libraries
 - [Graph Calculator](https://github.com/bar-benjamin/Graph-Calculator) - calculator for directed graph using C++, Python and swig
 - [HashMap](https://github.com/bar-benjamin/HashMap) - HashMap implementation in Java using Collection framework and iterators
+- [Thread Pool](https://github.com/bar-benjamin/ThreadPool) - Thread pool implementation in Java (similar to ExecutorService) that manages a pool of worker threads and assigns tasks to them as they become available
 
 ### Contact me
 
